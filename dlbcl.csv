@@ -1,0 +1,92 @@
+icgc_donor_id,project_code,study_donor_involved_in,submitted_donor_id,donor_sex,donor_vital_status,disease_status_last_followup,donor_relapse_type,donor_age_at_diagnosis,donor_age_at_enrollment,donor_age_at_last_followup,donor_relapse_interval,donor_diagnosis_icd10,donor_tumour_staging_system_at_diagnosis,donor_tumour_stage_at_diagnosis,donor_tumour_stage_at_diagnosis_supplemental,donor_survival_time,donor_interval_of_last_followup,prior_malignancy,cancer_type_prior_malignancy,cancer_history_first_degree_relative
+DO27851,MALY-DE,PCAWG,4120193,female,alive,complete remission,,41.0,41,46.0,,C83.3,Ann Arbor Stage,"III,N",,2125.0,2125.0,no,,unknown
+DO27853,MALY-DE,PCAWG,4166706,male,alive,partial remission,,62.0,62,65.0,,C83.3,Ann Arbor Stage,"III,N,S,E",,1352.0,1352.0,no,,yes
+DO27855,MALY-DE,PCAWG,4176133,female,alive,complete remission,,61.0,61,63.0,,C83.3,Ann Arbor Stage,"IV,N,S",,1041.0,1041.0,no,,unknown
+DO27857,MALY-DE,PCAWG,4184094,female,alive,partial remission,,57.0,57,59.0,,C83.3,Ann Arbor Stage,"IV,N,S,E",,1043.0,1043.0,no,,unknown
+DO27833,MALY-DE,PCAWG,4102009,male,alive,complete remission,,64.0,64,68.0,,C83.3,Ann Arbor Stage,"III,N",,1695.0,1695.0,no,,unknown
+DO27811,MALY-DE,PCAWG,4135099,male,alive,partial remission,,49.0,49,53.0,,C83.3,Ann Arbor Stage,III,,1686.0,1686.0,no,,unknown
+DO27813,MALY-DE,PCAWG,4101316,female,alive,complete remission,,74.0,74,74.0,,C83.3,Ann Arbor Stage,"I,N",,252.0,252.0,no,,unknown
+DO27815,MALY-DE,PCAWG,4177434,female,alive,complete remission,,16.0,16,20.0,,C83.3,Murphy Stage,III,,1813.0,1813.0,no,,unknown
+DO27827,MALY-DE,PCAWG,4107137,male,alive,complete remission,,59.0,59,62.0,,C83.3,Ann Arbor Stage,"III,N,S,E",,1182.0,1182.0,no,,unknown
+DO27809,MALY-DE,PCAWG,4177376,female,alive,partial remission,,73.0,73,74.0,,C83.3,Ann Arbor Stage,"IV,E",,439.0,439.0,no,,unknown
+DO27807,MALY-DE,PCAWG,4104893,male,alive,complete remission,,16.0,16,21.0,,C83.3,Murphy Stage,III,,1845.0,1845.0,no,,unknown
+DO228287,MALY-DE,,4175941,female,deceased,,,79.0,79,79.0,,C83.3,Ann Arbor Stage,"IV,E",,89.0,89.0,no,,yes
+DO228294,MALY-DE,,4176584,male,alive,,,64.0,64,67.0,,C83.3,Ann Arbor Stage,"II,N",,1283.0,1283.0,no,,unknown
+DO228222,MALY-DE,,4114033,male,,,,,71,,,C83.3,,,,,,,,unknown
+DO228221,MALY-DE,,4171946,male,,,,,47,,,C83.3,,,,,,,,unknown
+DO228236,MALY-DE,,4138464,female,alive,complete remission,,47.0,47,51.0,,C83.3,Ann Arbor Stage,"II,N,E",,1633.0,1633.0,no,,unknown
+DO228253,MALY-DE,,4109808,male,alive,partial remission,,63.0,63,63.0,,C83.3,Ann Arbor Stage,"III,N",,285.0,285.0,no,,unknown
+DO228269,MALY-DE,,4137230,female,alive,complete remission,,50.0,50,59.0,,C83.3,Ann Arbor Stage,"I,N",,3450.0,3450.0,no,,unknown
+DO228279,MALY-DE,,4138629,male,alive,complete remission,,24.0,39,39.0,,C83.3,Ann Arbor Stage,"I,E",,5523.0,5523.0,no,,unknown
+DO27777,MALY-DE,PCAWG,4116738,male,alive,complete remission,,15.0,15,19.0,,C83.3,Murphy Stage,IV,,1513.0,1513.0,no,,unknown
+DO27779,MALY-DE,PCAWG,4163639,female,alive,partial remission,,75.0,75,80.0,,C83.3,Ann Arbor Stage,"III,N",,1856.0,1856.0,no,,unknown
+DO27783,MALY-DE,PCAWG,4131257,male,alive,partial remission,,72.0,72,74.0,,C83.3,Ann Arbor Stage,"III,E",,783.0,783.0,no,,yes
+DO27789,MALY-DE,PCAWG,4108101,male,alive,partial remission,,66.0,66,66.0,,C83.3,Ann Arbor Stage,"II,N",,292.0,292.0,no,,unknown
+DO27767,MALY-DE,PCAWG,4190495,male,alive,relapse,,15.0,15,19.0,196.0,C83.3,Murphy Stage,III,,1533.0,1533.0,no,,unknown
+DO228326,MALY-DE,,4168738,male,deceased,progression,,50.0,50,51.0,122.0,C83.3,Ann Arbor Stage,"III,N,S",,476.0,466.0,no,,unknown
+DO228346,MALY-DE,,4182605,female,deceased,progression,,75.0,75,75.0,60.0,C83.3,Ann Arbor Stage,"IV,N,E",,128.0,128.0,no,,unknown
+DO228343,MALY-DE,,4161288,male,deceased,stable,,73.0,73,74.0,,C83.3,unknown,unknown,,495.0,495.0,no,,unknown
+DO228367,MALY-DE,,4161486,male,alive,,,16.0,16,30.0,,C83.3,Ann Arbor Stage,I,,5127.0,5127.0,no,,unknown
+DO52690,MALY-DE,PCAWG,4111326,female,alive,complete remission,,74.0,74,75.0,,C83.3,Ann Arbor Stage,"III,N",,672.0,672.0,no,,unknown
+DO228372,MALY-DE,,4144131,male,deceased,relapse,,75.0,75,75.0,155.0,C83.3,Ann Arbor Stage,"III,N",,316.0,336.0,yes,,unknown
+DO228376,MALY-DE,,4128849,female,deceased,partial remission,,54.0,54,55.0,,C83.3,Ann Arbor Stage,"III,N,S",,570.0,588.0,no,,unknown
+DO52683,MALY-DE,PCAWG,4144633,female,alive,complete remission,,44.0,44,54.0,,C83.3,Ann Arbor Stage,"I,N",,3838.0,3838.0,no,,unknown
+DO52684,MALY-DE,PCAWG,4120157,male,deceased,relapse,,46.0,46,47.0,274.0,C83.3,Ann Arbor Stage,"II,N",,380.0,383.0,no,,unknown
+DO52687,MALY-DE,PCAWG,4147968,female,alive,complete remission,,65.0,65,65.0,,C83.3,Ann Arbor Stage,"IV,E",,209.0,209.0,no,,unknown
+DO52686,MALY-DE,PCAWG,4145528,male,alive,partial remission,,62.0,62,68.0,,C83.3,Ann Arbor Stage,"II,N,S",,2414.0,2414.0,no,,unknown
+DO52679,MALY-DE,PCAWG,4161781,female,alive,complete remission,,36.0,36,37.0,,C83.3,Ann Arbor Stage,"I,E",,679.0,679.0,no,,unknown
+DO52672,MALY-DE,PCAWG,4193638,female,alive,complete remission,,55.0,55,56.0,,C83.3,Ann Arbor Stage,"II,N",,572.0,572.0,no,,yes
+DO52671,MALY-DE,PCAWG,4166151,female,deceased,,,74.0,74,74.0,,C83.3,Ann Arbor Stage,"III,E",,194.0,194.0,no,,unknown
+DO52674,MALY-DE,PCAWG,4199714,female,alive,complete remission,,53.0,53,60.0,,C83.3,Ann Arbor Stage,"I,N",,2762.0,2762.0,no,,unknown
+DO52675,MALY-DE,PCAWG,4181460,female,alive,complete remission,,70.0,70,72.0,,C83.3,Ann Arbor Stage,"II,N,E",,806.0,806.0,yes,,unknown
+DO52670,MALY-DE,PCAWG,4188398,female,deceased,,,75.0,75,75.0,,C83.3,unknown,unknown,,71.0,71.0,no,,unknown
+DO228394,MALY-DE,,4167925,female,deceased,,,70.0,71,72.0,,C83.3,Ann Arbor Stage,"II,N",,1090.0,1090.0,no,,unknown
+DO228396,MALY-DE,,4171586,male,alive,complete remission,,53.0,53,57.0,,C83.3,Ann Arbor Stage,"II,N,S",,1572.0,1572.0,no,,unknown
+DO52661,MALY-DE,PCAWG,4133263,male,alive,complete remission,,40.0,40,45.0,,C83.3,Ann Arbor Stage,"IV,N,S,E",,1855.0,1855.0,no,,unknown
+DO52663,MALY-DE,PCAWG,4142605,female,alive,relapse,,76.0,76,76.0,263.0,C83.3,Ann Arbor Stage,"III,N",,265.0,265.0,no,,unknown
+DO52665,MALY-DE,PCAWG,4189035,male,alive,complete remission,,46.0,46,48.0,,C83.3,Ann Arbor Stage,"I,N",,964.0,964.0,no,,unknown
+DO52666,MALY-DE,PCAWG,4150895,female,alive,complete remission,,57.0,57,61.0,,C83.3,Ann Arbor Stage,"IV,N,E",,1525.0,1525.0,no,,unknown
+DO228305,MALY-DE,,4113140,male,alive,complete remission,,43.0,43,45.0,,C83.3,Ann Arbor Stage,"III,N,S",,991.0,991.0,no,,unknown
+DO228318,MALY-DE,,4193646,male,alive,complete remission,,33.0,33,33.0,,C83.3,Ann Arbor Stage,"I,E",,233.0,233.0,no,,unknown
+DO228442,MALY-DE,,4135813,female,alive,,,4.0,4,4.0,,C83.3,Ann Arbor Stage,I,,28.0,28.0,no,,unknown
+DO228451,MALY-DE,,4135278,female,alive,relapse,,43.0,43,44.0,345.0,C83.3,Ann Arbor Stage,"III,N",,520.0,520.0,no,,unknown
+DO228465,MALY-DE,,4104105,male,alive,complete remission,,58.0,58,62.0,,C83.3,Ann Arbor Stage,"I,N",,1509.0,1509.0,no,,unknown
+DO228492,MALY-DE,,4170577,female,alive,partial remission,,88.0,88,88.0,,C83.3,Ann Arbor Stage,"IV,N,E",,331.0,331.0,no,,unknown
+DO228496,MALY-DE,,4130865,male,alive,partial remission,,53.0,53,53.0,,C83.3,Ann Arbor Stage,"III,N",,342.0,342.0,no,,unknown
+DO228403,MALY-DE,,4176325,female,alive,complete remission,,80.0,80,81.0,,C83.3,Ann Arbor Stage,"I,N",,727.0,727.0,no,,unknown
+DO228414,MALY-DE,,4131213,female,,,,71.0,71,71.0,,C83.3,Ann Arbor Stage,"III,N",,28.0,28.0,no,,unknown
+DO228418,MALY-DE,,4151471,male,alive,complete remission,,29.0,29,35.0,,C83.3,Ann Arbor Stage,"IV,N,E",,2263.0,2263.0,no,,unknown
+DO228411,MALY-DE,,4171810,female,alive,partial remission,,52.0,52,65.0,,C83.3,Ann Arbor Stage,"IV,S,E",,4845.0,4845.0,no,,yes
+DO228424,MALY-DE,,4110120,male,alive,complete remission,,68.0,68,76.0,,C83.3,Ann Arbor Stage,"I,N",,3028.0,3028.0,no,,unknown
+DO228428,MALY-DE,,4140544,female,alive,complete remission,,61.0,61,79.0,,C83.3,Ann Arbor Stage,"III,N",,6659.0,6659.0,yes,,yes
+DO228429,MALY-DE,,4158933,male,alive,partial remission,,67.0,67,69.0,,C83.3,Ann Arbor Stage,"II,N",,886.0,886.0,no,,unknown
+DO228421,MALY-DE,,4173863,female,alive,complete remission,,53.0,53,62.0,,C83.3,Ann Arbor Stage,"III,N,S",,3381.0,3381.0,no,,unknown
+DO228438,MALY-DE,,4179894,male,alive,complete remission,,72.0,72,73.0,,C83.3,Ann Arbor Stage,"II,N",,435.0,435.0,no,,unknown
+DO228587,MALY-DE,,4183136,male,alive,partial remission,,55.0,55,61.0,,C83.3,Ann Arbor Stage,"IV,N,S,E",,2326.0,2326.0,no,,yes
+DO228504,MALY-DE,,4169012,female,alive,complete remission,,59.0,59,60.0,,C83.3,Ann Arbor Stage,"IV,N",,414.0,414.0,no,,yes
+DO228518,MALY-DE,,4141476,female,alive,partial remission,,79.0,79,80.0,,C83.3,Ann Arbor Stage,"III,N,S",,645.0,645.0,no,,unknown
+DO228526,MALY-DE,,4117030,male,alive,complete remission,,58.0,58,61.0,,C83.3,Ann Arbor Stage,"III,N",,1429.0,1429.0,no,,yes
+DO228543,MALY-DE,,4146136,female,alive,complete remission,,76.0,76,76.0,,C83.3,Ann Arbor Stage,"I,N",,258.0,258.0,no,,unknown
+DO228600,MALY-DE,,4183924,female,alive,complete remission,,72.0,72,72.0,,C83.3,Ann Arbor Stage,"III,N,E",,155.0,155.0,no,,unknown
+DO228605,MALY-DE,,4197155,female,alive,complete remission,,70.0,70,71.0,,C83.3,Ann Arbor Stage,"I,N",,510.0,510.0,no,,unknown
+DO228824,MALY-DE,,4176046,male,alive,complete remission,,57.0,57,61.0,,C83.3,Ann Arbor Stage,"I,N",,1521.0,1521.0,yes,,unknown
+DO228834,MALY-DE,,4124791,female,alive,complete remission,,68.0,68,70.0,,C83.3,Ann Arbor Stage,"III,N,S",,961.0,961.0,no,,unknown
+DO228858,MALY-DE,,4132950,male,deceased,,,76.0,76,76.0,,C83.3,Ann Arbor Stage,"IV,N",,138.0,218.0,no,,unknown
+DO228851,MALY-DE,,4177842,female,alive,complete remission,,75.0,75,80.0,,C83.3,Ann Arbor Stage,"II,N",,1960.0,1960.0,no,,unknown
+DO228865,MALY-DE,,4167381,male,alive,complete remission,,68.0,68,70.0,,C83.3,Ann Arbor Stage,"III,N,S",,1024.0,1024.0,no,,unknown
+DO228875,MALY-DE,,4116268,male,alive,complete remission,,52.0,52,52.0,,C83.3,Ann Arbor Stage,"II,N",,294.0,294.0,no,,unknown
+DO228872,MALY-DE,,4130051,female,alive,complete remission,,74.0,74,74.0,,C83.3,Ann Arbor Stage,"IV,N,E",,274.0,274.0,no,,unknown
+DO221118,MALY-DE,,4140531,male,alive,complete remission,,66.0,66,70.0,,C83.3,Ann Arbor Stage,"I,E",,1594.0,1594.0,no,,unknown
+DO221117,MALY-DE,,4107559,male,alive,complete remission,,72.0,72,74.0,,C83.3,Ann Arbor Stage,I,,840.0,840.0,yes,,unknown
+DO221125,MALY-DE,,4122063,male,alive,relapse,,47.0,47,50.0,1327.0,C83.3,Ann Arbor Stage,"IV,E",,1333.0,1333.0,no,,unknown
+DO221126,MALY-DE,,4130194,female,deceased,relapse,,55.0,55,56.0,251.0,C83.3,Ann Arbor Stage,"II,N,E",,466.0,466.0,yes,,unknown
+DO221123,MALY-DE,PCAWG,4124188,male,alive,complete remission,,73.0,73,73.0,,C83.3,Ann Arbor Stage,"IV,N,E",,300.0,300.0,no,,unknown
+DO221124,MALY-DE,PCAWG,4138527,female,deceased,partial remission,,85.0,85,86.0,,C83.3,Ann Arbor Stage,"II,N",,374.0,374.0,no,,unknown
+DO221129,MALY-DE,PCAWG,4128852,female,alive,complete remission,,57.0,57,59.0,,C83.3,Ann Arbor Stage,"II,N",,751.0,751.0,no,,yes
+DO221127,MALY-DE,PCAWG,4105746,male,alive,complete remission,,58.0,58,61.0,,C83.3,Ann Arbor Stage,"I,E",,1167.0,1167.0,no,,unknown
+DO52657,MALY-DE,PCAWG,4157186,male,alive,complete remission,,74.0,74,77.0,,C83.3,Ann Arbor Stage,"II,E",,1198.0,1198.0,no,,unknown
+DO52658,MALY-DE,PCAWG,4188879,male,alive,partial remission,,52.0,52,55.0,,C83.3,Ann Arbor Stage,IV,,1177.0,1177.0,no,,yes
+DO52659,MALY-DE,PCAWG,4119279,female,alive,complete remission,,62.0,62,65.0,,C83.3,Ann Arbor Stage,"III,S",,1323.0,1323.0,no,,yes
+DO52650,MALY-DE,PCAWG,4134434,male,alive,partial remission,,84.0,84,84.0,,C83.3,Ann Arbor Stage,"IV,N,E",,128.0,128.0,no,,unknown
+DO52654,MALY-DE,PCAWG,4115001,female,alive,complete remission,,70.0,70,76.0,,C83.3,Ann Arbor Stage,"II,N",,2524.0,2524.0,no,,unknown
+DO52655,MALY-DE,PCAWG,4145177,female,alive,complete remission,,75.0,75,78.0,,C83.3,Ann Arbor Stage,"II,N",,1177.0,1177.0,no,,yes

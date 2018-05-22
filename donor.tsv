@@ -1,0 +1,275 @@
+icgc_donor_id	project_code	study_donor_involved_in	submitted_donor_id	donor_sex	donor_vital_status	disease_status_last_followup	donor_relapse_type	donor_age_at_diagnosis	donor_age_at_enrollment	donor_age_at_last_followup	donor_relapse_interval	donor_diagnosis_icd10	donor_tumour_staging_system_at_diagnosis	donor_tumour_stage_at_diagnosis	donor_tumour_stage_at_diagnosis_supplemental	donor_survival_time	donor_interval_of_last_followup	prior_malignancy	cancer_type_prior_malignancy	cancer_history_first_degree_relative
+DO27851	MALY-DE	PCAWG	4120193	female	alive	complete remission		41	41	46		C83.3	Ann Arbor Stage	III,N		2125	2125	no		unknown
+DO27853	MALY-DE	PCAWG	4166706	male	alive	partial remission		62	62	65		C83.3	Ann Arbor Stage	III,N,S,E		1352	1352	no		yes
+DO27855	MALY-DE	PCAWG	4176133	female	alive	complete remission		61	61	63		C83.3	Ann Arbor Stage	IV,N,S		1041	1041	no		unknown
+DO27857	MALY-DE	PCAWG	4184094	female	alive	partial remission		57	57	59		C83.3	Ann Arbor Stage	IV,N,S,E		1043	1043	no		unknown
+DO27859	MALY-DE	PCAWG	4177810	female	alive	complete remission		47	47	55		C82.0	Ann Arbor Stage	IV,N		2940	2940	no		unknown
+DO27861	MALY-DE		4118819	male	alive				24			J03.9								unknown
+DO27863	MALY-DE		4174884	male	alive				30			J03.9								unknown
+DO27865	MALY-DE		4122131	male	alive				19			J03.9								unknown
+DO27831	MALY-DE		4131744	male	alive	complete remission		68	68	72		C82.3	Ann Arbor Stage	III,E		1535	1535	no		unknown
+DO27833	MALY-DE	PCAWG	4102009	male	alive	complete remission		64	64	68		C83.3	Ann Arbor Stage	III,N		1695	1695	no		unknown
+DO27835	MALY-DE	PCAWG	4160468	male	deceased	relapse		62	67	69	973	C82.1	Ann Arbor Stage	I,N		2645	2645	yes		unknown
+DO27837	MALY-DE	PCAWG	4170686	male	alive			56	56	60		C82.0	Ann Arbor Stage	III,N,E		1741	1741	no		unknown
+DO27839	MALY-DE		4171706	female	alive	complete remission		70	70	74		C82.0	Ann Arbor Stage	III,N		1506	1506	no		unknown
+DO27841	MALY-DE	PCAWG	4172511	male	alive	complete remission		70	70	70		C88.9	Ann Arbor Stage	I,E		161	161	no		unknown
+DO27843	MALY-DE	PCAWG	4174905	male	alive	complete remission		72	72	78		C82.0	Ann Arbor Stage	IV,N,E		2443	2443	no		unknown
+DO27845	MALY-DE	PCAWG	4177601	female	alive			52	52	56		C82.1	Ann Arbor Stage	IV,N,E		1715	1715	no		unknown
+DO27847	MALY-DE	PCAWG	4191799	male	alive	complete remission		16	16	20		C85.2	Murphy Stage	unknown		1544	1544	no		unknown
+DO27849	MALY-DE	PCAWG	4139696	male	deceased			70	70	70		C82.4	Ann Arbor Stage	III,N		306	343	no		yes
+DO27819	MALY-DE	PCAWG	4133511	male	alive	complete remission		5	5	13		C83.7	Murphy Stage	III		3187	3187	no		unknown
+DO27811	MALY-DE	PCAWG	4135099	male	alive	partial remission		49	49	53		C83.3	Ann Arbor Stage	III		1686	1686	no		unknown
+DO27813	MALY-DE	PCAWG	4101316	female	alive	complete remission		74	74	74		C83.3	Ann Arbor Stage	I,N		252	252	no		unknown
+DO27815	MALY-DE	PCAWG	4177434	female	alive	complete remission		16	16	20		C83.3	Murphy Stage	III		1813	1813	no		unknown
+DO27817	MALY-DE	PCAWG	4177987	male	alive	partial remission		71	71	73		C82.1	Ann Arbor Stage	IV,S,E		1085	1085	no		unknown
+DO27821	MALY-DE	PCAWG	4177856	male	alive	partial remission		10	10	15		C83.7	Murphy Stage	III		2084	2084	no		unknown
+DO27823	MALY-DE	PCAWG	4142267	male	alive	complete remission		5	5	8		C83.7	Murphy Stage	B-ALL		1409	1409	no		unknown
+DO27825	MALY-DE	PCAWG	4194891	male	alive	complete remission		4	4	11		C83.7	Murphy Stage	III		2866	2866	no		unknown
+DO27827	MALY-DE	PCAWG	4107137	male	alive	complete remission		59	59	62		C83.3	Ann Arbor Stage	III,N,S,E		1182	1182	no		unknown
+DO27829	MALY-DE	PCAWG	4127766	male	alive	complete remission		8	8	13		C83.7	Murphy Stage	III		1870	1870	yes		unknown
+DO27809	MALY-DE	PCAWG	4177376	female	alive	partial remission		73	73	74		C83.3	Ann Arbor Stage	IV,E		439	439	no		unknown
+DO27801	MALY-DE	PCAWG	4121361	male	alive	complete remission		74	74	77		C82.0	Ann Arbor Stage	II,N		1387	1387	no		unknown
+DO27803	MALY-DE	PCAWG	4134005	male	alive	partial remission		67	67	71		C82.0	Ann Arbor Stage	IV,N		1576	1576	no		unknown
+DO27805	MALY-DE	PCAWG	4188900	male	alive	complete remission		76	76	77		C82.0	Ann Arbor Stage	III,N		503	503	no		unknown
+DO27807	MALY-DE	PCAWG	4104893	male	alive	complete remission		16	16	21		C83.3	Murphy Stage	III		1845	1845	no		unknown
+DO228285	MALY-DE		4190231	male	alive	complete remission		12	12	18		C83.7	Murphy Stage	III		2384	2384	no		unknown
+DO228287	MALY-DE		4175941	female	deceased			79	79	79		C83.3	Ann Arbor Stage	IV,E		89	89	no		yes
+DO228289	MALY-DE		4159910	female	deceased			87	87	87		C82.9	Ann Arbor Stage	IV,E		10	36	no		unknown
+DO228291	MALY-DE		4100049	male	alive	partial remission		77	77	78		C82.0	Ann Arbor Stage	IV		386	386	no		unknown
+DO228294	MALY-DE		4176584	male	alive			64	64	67		C83.3	Ann Arbor Stage	II,N		1283	1283	no		unknown
+DO228298	MALY-DE		4110498	male	alive	complete remission		8	8	12		C83.7	Murphy Stage	B-ALL		1742	1742	no		unknown
+DO228222	MALY-DE		4114033	male					71			C83.3								unknown
+DO228221	MALY-DE		4171946	male					47			C83.3								unknown
+DO228236	MALY-DE		4138464	female	alive	complete remission		47	47	51		C83.3	Ann Arbor Stage	II,N,E		1633	1633	no		unknown
+DO228238	MALY-DE		4174742	female	alive	complete remission		4	4	12		C83.7	Murphy Stage	IV		3125	3125	no		unknown
+DO228231	MALY-DE		4119702	male	alive			74	74	74		C82.0	Ann Arbor Stage	II,N		245	245	yes		unknown
+DO228233	MALY-DE		4118156	female	alive			70	70	73		C82.0	Ann Arbor Stage	II,N		1455	1455	no		unknown
+DO228249	MALY-DE		4103434	male		complete remission		46	46			C82.6	unknown	unknown				no		unknown
+DO228240	MALY-DE		4123945	female	alive	complete remission		43	43	56		C82.0	Ann Arbor Stage	IV,N		5093	5093	no		unknown
+DO228242	MALY-DE		4108627	female	alive	complete remission		5	5	11		C83.7	Murphy Stage	B-ALL		2380	2380	no		unknown
+DO228258	MALY-DE		4145391	male	alive	partial remission		73	73	74		C82.0	Ann Arbor Stage	III,N		446	446	yes		unknown
+DO228251	MALY-DE		4103627	female	deceased	complete remission		51	51	53		C82.0	Ann Arbor Stage	unknown		857	857	no		unknown
+DO228253	MALY-DE		4109808	male	alive	partial remission		63	63	63		C83.3	Ann Arbor Stage	III,N		285	285	no		unknown
+DO228255	MALY-DE		4152036	male	alive	complete remission		14	14	18		C83.7	Murphy Stage	III		1644	1644	no		unknown
+DO228257	MALY-DE		4142761	male	deceased	relapse		63	63	66	0	C82.0	Ann Arbor Stage	IV,S,E		999	1252	no		unknown
+DO228269	MALY-DE		4137230	female	alive	complete remission		50	50	59		C83.3	Ann Arbor Stage	I,N		3450	3450	no		unknown
+DO228263	MALY-DE		4112817	male	alive	partial remission		49	49	51		C82.0	Ann Arbor Stage	IV,N,S		959	959	no		unknown
+DO228265	MALY-DE		4100285	male	alive				17			J03.9								unknown
+DO228271	MALY-DE		4179976	male	alive	complete remission		22	22	24		C82.4	Ann Arbor Stage	I,N		1045	1045	no		unknown
+DO228274	MALY-DE		4152611	male	alive	complete remission		7	7	8		C83.7	Murphy Stage	B-ALL		557	557	no		unknown
+DO228279	MALY-DE		4138629	male	alive	complete remission		24	39	39		C83.3	Ann Arbor Stage	I,E		5523	5523	no		unknown
+DO228281	MALY-DE		4128355	male	alive			75	75	76		C82.1	Ann Arbor Stage	III,N		399	399	no		unknown
+DO27793	MALY-DE	PCAWG	4146289	male	alive	complete remission		14	14	17		C83.7	Murphy Stage	III		1229	1229	no		unknown
+DO27795	MALY-DE	PCAWG	4112512	female	alive	complete remission		18	18	24		C83.7	Murphy Stage	III		2265	2265	no		unknown
+DO27797	MALY-DE	PCAWG	4158726	male	alive	complete remission		48	48	49		C82.0	Ann Arbor Stage	IV,N,E		510	510	no		unknown
+DO27799	MALY-DE	PCAWG	4193278	male	alive	complete remission		17	17	22		C83.7	Murphy Stage	II		2044	2044	no		unknown
+DO27771	MALY-DE	PCAWG	4135350	male	alive	complete remission		8	8	15		C85.1	Murphy Stage	III		2876	2876	no		unknown
+DO27773	MALY-DE	PCAWG	4159170	male	alive	relapse		43	43	47	1351	C82.0	Ann Arbor Stage	IV,N,E		1615	1615	yes		unknown
+DO27775	MALY-DE	PCAWG	4194218	male	alive	complete remission		4	4	7		C83.7	Murphy Stage	unknown		1374	1374	no		unknown
+DO27777	MALY-DE	PCAWG	4116738	male	alive	complete remission		15	15	19		C83.3	Murphy Stage	IV		1513	1513	no		unknown
+DO27779	MALY-DE	PCAWG	4163639	female	alive	partial remission		75	75	80		C83.3	Ann Arbor Stage	III,N		1856	1856	no		unknown
+DO27791	MALY-DE	PCAWG	4130003	male	alive	complete remission		6	6	11		C83.7	Murphy Stage	I		1851	1851	no		unknown
+DO27781	MALY-DE	PCAWG	4105105	female	alive	complete remission		40	40	44		C82.0	Ann Arbor Stage	IV		1804	1804	no		unknown
+DO27783	MALY-DE	PCAWG	4131257	male	alive	partial remission		72	72	74		C83.3	Ann Arbor Stage	III,E		783	783	no		yes
+DO27785	MALY-DE	PCAWG	4189200	female	alive	complete remission		51	51	59		C82.0	Ann Arbor Stage	IV,N,S		3024	3024	yes		unknown
+DO27787	MALY-DE	PCAWG	4175837	female	alive	partial remission		74	74	76		C82.3	Ann Arbor Stage	IV		754	754	unknown		unknown
+DO27789	MALY-DE	PCAWG	4108101	male	alive	partial remission		66	66	66		C83.3	Ann Arbor Stage	II,N		292	292	no		unknown
+DO27764	MALY-DE	PCAWG	4119027	male	alive	complete remission		12	12	19		C83.7	Murphy Stage	unknown		2618	2618	no		unknown
+DO27763	MALY-DE	PCAWG	4182393	male	alive	complete remission		10	10	16		C83.7	Murphy Stage	III		2308	2308	no		unknown
+DO27765	MALY-DE	PCAWG	4125240	male	alive	complete remission		4	4	6		C83.7	Murphy Stage	II		814	814	no		unknown
+DO27767	MALY-DE	PCAWG	4190495	male	alive	relapse		15	15	19	196	C83.3	Murphy Stage	III		1533	1533	no		unknown
+DO27769	MALY-DE	PCAWG	4189998	male	alive	complete remission		13	13	18		C83.7	Murphy Stage	III		2173	2173	no		unknown
+DO228325	MALY-DE		4199848	male	alive			33	33	33		C82.0	Ann Arbor Stage	III,N		35	35	no		unknown
+DO228326	MALY-DE		4168738	male	deceased	progression		50	50	51	122	C83.3	Ann Arbor Stage	III,N,S		476	466	no		unknown
+DO228329	MALY-DE		4178243	male	alive			57	57	57		unknown	Ann Arbor Stage	unknown		267	267	unknown		unknown
+DO228322	MALY-DE		4100316	male				3	3			C83.7						unknown		unknown
+DO228336	MALY-DE		4166940	male	alive	complete remission		45	45	46		unknown	Ann Arbor Stage	II,N		440	440	no		unknown
+DO228338	MALY-DE		4196446	male				10	10			C83.7						unknown		unknown
+DO228334	MALY-DE		4154480	female	alive	partial remission		42	42	45		unknown	Ann Arbor Stage	unknown		1170	1170	no		unknown
+DO228346	MALY-DE		4182605	female	deceased	progression		75	75	75	60	C83.3	Ann Arbor Stage	IV,N,E		128	128	no		unknown
+DO228349	MALY-DE		4103124	female				3	3			C83.7						unknown		unknown
+DO228341	MALY-DE		4115022	male	alive	complete remission		58	58	61		C83.0	Ann Arbor Stage	IV,N,S,E		1264	1264	no		unknown
+DO228343	MALY-DE		4161288	male	deceased	stable		73	73	74		C83.3	unknown	unknown		495	495	no		unknown
+DO228344	MALY-DE		4121263	female	alive	relapse		64	64	70	2336	C82.0	Ann Arbor Stage	I,N		2365	2365	no		unknown
+DO228358	MALY-DE		4162144	male				5	5			C83.7						unknown		unknown
+DO228351	MALY-DE		4138652	male	alive	stable		45	45	50		C82.0	Ann Arbor Stage	IV,N		2079	2079	no		yes
+DO228353	MALY-DE		4124795	female	alive	partial remission		75	75	78		C82.0	Ann Arbor Stage	III,N,E		1205	1205	no		unknown
+DO228355	MALY-DE		4121621	male	alive	complete remission		57	57	59		C85.1	Ann Arbor Stage	IV,N,S,E		847	847	no		unknown
+DO228368	MALY-DE		4198478	male	alive	complete remission		7	7	13		C83.7	Murphy Stage	III		2506	2506	no		unknown
+DO228360	MALY-DE		4133075	male				7	7			C83.7						unknown		unknown
+DO228363	MALY-DE		4178605	male	alive			71	72	75		unknown	Ann Arbor Stage	unknown		1463	1463	no		unknown
+DO228365	MALY-DE		4197438	male	deceased	partial remission		71	71	71		C83.0	Ann Arbor Stage	II,N		288	288	no		unknown
+DO228367	MALY-DE		4161486	male	alive			16	16	30		C83.3	Ann Arbor Stage	I		5127	5127	no		unknown
+DO52694	MALY-DE	PCAWG	4124542	female	alive	complete remission		72	72	79		C82.0	Ann Arbor Stage	III,N		2718	2718	no		unknown
+DO52693	MALY-DE	PCAWG	4113191	female	alive	complete remission		62	62	66		C82.0	Ann Arbor Stage	III,S		1558	1558	yes		yes
+DO52696	MALY-DE	PCAWG	4178310	male	alive	complete remission		10	10	16		C83.7	Murphy Stage	B-ALL		2348	2348	no		unknown
+DO52695	MALY-DE	PCAWG	4113825	female	alive	relapse		74	74	76	0	C82.0	Ann Arbor Stage	unknown		1072	1072	yes		unknown
+DO52690	MALY-DE	PCAWG	4111326	female	alive	complete remission		74	74	75		C83.3	Ann Arbor Stage	III,N		672	672	no		unknown
+DO52692	MALY-DE	PCAWG	4111337	female	alive	complete remission		79	79	79		C82.0	Ann Arbor Stage	II,N		317	317	yes		unknown
+DO52691	MALY-DE	PCAWG	4178345	male	alive	complete remission		10	10	14		C83.7	Murphy Stage	B-ALL		1587	1587	no		unknown
+DO228379	MALY-DE		4148771	female	alive	relapse		64	64	74	1936	C82.0	Ann Arbor Stage	IV,N,S,E		3664	3664	no		unknown
+DO228372	MALY-DE		4144131	male	deceased	relapse		75	75	75	155	C83.3	Ann Arbor Stage	III,N		316	336	yes		unknown
+DO228371	MALY-DE		4103958	female					72			C83.7						unknown		unknown
+DO228373	MALY-DE		4101815	female	alive	complete remission		69	69	78		C82.0	Ann Arbor Stage	IV,N,E		3376	3376	no		unknown
+DO228376	MALY-DE		4128849	female	deceased	partial remission		54	54	55		C83.3	Ann Arbor Stage	III,N,S		570	588	no		unknown
+DO228375	MALY-DE		4164330	male	alive	complete remission		44	44	45		C82.0	Ann Arbor Stage	III,N,S		462	462	no		unknown
+DO52683	MALY-DE	PCAWG	4144633	female	alive	complete remission		44	44	54		C83.3	Ann Arbor Stage	I,N		3838	3838	no		unknown
+DO52682	MALY-DE	PCAWG	4131095	female	alive			56	56	59		C85.1	Ann Arbor Stage	IV,E		1219	1219	no		unknown
+DO52685	MALY-DE	PCAWG	4144951	female	alive	complete remission		62	62	64		C82.0	Ann Arbor Stage	II,N		746	746	no		unknown
+DO52684	MALY-DE	PCAWG	4120157	male	deceased	relapse		46	46	47	274	C83.3	Ann Arbor Stage	II,N		380	383	no		unknown
+DO52687	MALY-DE	PCAWG	4147968	female	alive	complete remission		65	65	65		C83.3	Ann Arbor Stage	IV,E		209	209	no		unknown
+DO52686	MALY-DE	PCAWG	4145528	male	alive	partial remission		62	62	68		C83.3	Ann Arbor Stage	II,N,S		2414	2414	no		unknown
+DO52689	MALY-DE	PCAWG	4108992	male	alive	partial remission		68	68	71		C82.0	Ann Arbor Stage	IV,N,E		1423	1423	no		yes
+DO52688	MALY-DE	PCAWG	4103141	female	alive	complete remission		60	60	66		C82.0	Ann Arbor Stage	III,E		2330	2330	no		unknown
+DO52681	MALY-DE	PCAWG	4128477	male	alive	partial remission		54	54	61		C82.0	Ann Arbor Stage	IV,N,E		2892	2892	no		unknown
+DO52680	MALY-DE	PCAWG	4165379	female	alive	complete remission		64	64	70		C82.0	Ann Arbor Stage	I,N		2422	2422	no		unknown
+DO228382	MALY-DE		4139483	female	alive			64	64	66		C82.0	Ann Arbor Stage	IV,N		821	821	no		unknown
+DO52679	MALY-DE	PCAWG	4161781	female	alive	complete remission		36	36	37		C83.3	Ann Arbor Stage	I,E		679	679	no		unknown
+DO228387	MALY-DE		4190316	female	alive	complete remission		11	11	14		C83.7	Murphy Stage	III		1396	1396	no		unknown
+DO52672	MALY-DE	PCAWG	4193638	female	alive	complete remission		55	55	56		C83.3	Ann Arbor Stage	II,N		572	572	no		yes
+DO52671	MALY-DE	PCAWG	4166151	female	deceased			74	74	74		C83.3	Ann Arbor Stage	III,E		194	194	no		unknown
+DO52674	MALY-DE	PCAWG	4199714	female	alive	complete remission		53	53	60		C83.3	Ann Arbor Stage	I,N		2762	2762	no		unknown
+DO52673	MALY-DE	PCAWG	4196670	female	alive	complete remission		60	60	63		C83.0	Ann Arbor Stage	I,N		1323	1323	no		unknown
+DO52676	MALY-DE	PCAWG	4138885	female	alive	complete remission		55	55	60		C82.0	Ann Arbor Stage	I,N		1928	1928	no		unknown
+DO52675	MALY-DE	PCAWG	4181460	female	alive	complete remission		70	70	72		C83.3	Ann Arbor Stage	II,N,E		806	806	yes		unknown
+DO228391	MALY-DE		4151884	male	alive	partial remission		2	2	5		C83.7	Murphy Stage	III		1404	1404	no		unknown
+DO52677	MALY-DE	PCAWG	4147081	female	alive	complete remission		42	42	47		C82.0	Ann Arbor Stage	IV,N,S,E		1967	1967	no		unknown
+DO52670	MALY-DE	PCAWG	4188398	female	deceased			75	75	75		C83.3	unknown	unknown		71	71	no		unknown
+DO228394	MALY-DE		4167925	female	deceased			70	71	72		C83.3	Ann Arbor Stage	II,N		1090	1090	no		unknown
+DO52669	MALY-DE	PCAWG	4145056	female	alive	progression		67	67	68	347	C82.0	Ann Arbor Stage	III,N		592	592	no		unknown
+DO52668	MALY-DE	PCAWG	4190784	male	alive	complete remission		4	4	12		C83.7	Murphy Stage	B-ALL		2990	2990	no		unknown
+DO228396	MALY-DE		4171586	male	alive	complete remission		53	53	57		C83.3	Ann Arbor Stage	II,N,S		1572	1572	no		unknown
+DO228395	MALY-DE		4107597	female	alive	complete remission		17	17	18		C85.1	Ann Arbor Stage	I		445	445	no		unknown
+DO228399	MALY-DE		4156551	male	alive	complete remission		8	8	14		C83.7	Murphy Stage	II		2233	2233	no		unknown
+DO52661	MALY-DE	PCAWG	4133263	male	alive	complete remission		40	40	45		C83.3	Ann Arbor Stage	IV,N,S,E		1855	1855	no		unknown
+DO52660	MALY-DE	PCAWG	4120403	male	alive	partial remission		47	47	51		C82.3	Ann Arbor Stage	IV,N,E		1462	1462	no		unknown
+DO52663	MALY-DE	PCAWG	4142605	female	alive	relapse		76	76	76	263	C83.3	Ann Arbor Stage	III,N		265	265	no		unknown
+DO52662	MALY-DE	PCAWG	4166503	male	alive	partial remission		43	43	45		C82.0	Ann Arbor Stage	III,N		859	859	no		unknown
+DO52665	MALY-DE	PCAWG	4189035	male	alive	complete remission		46	46	48		C83.3	Ann Arbor Stage	I,N		964	964	no		unknown
+DO52664	MALY-DE	PCAWG	4178655	male	alive			50	50	52		C82.0	Ann Arbor Stage	II,N		1023	1023	no		yes
+DO52667	MALY-DE	PCAWG	4199996	male	alive	stable		73	73	73		C82.0	Ann Arbor Stage	II,N		339	339	no		unknown
+DO52666	MALY-DE	PCAWG	4150895	female	alive	complete remission		57	57	61		C83.3	Ann Arbor Stage	IV,N,E		1525	1525	no		unknown
+DO228303	MALY-DE		4160069	female	alive	complete remission		51	51	55		C82.0	Ann Arbor Stage	IV,N,E		1786	1786	no		yes
+DO228302	MALY-DE		4131750	male	alive			14	14	27		C83.7	Murphy Stage	III		5057	5057	no		unknown
+DO228305	MALY-DE		4113140	male	alive	complete remission		43	43	45		C83.3	Ann Arbor Stage	III,N,S		991	991	no		unknown
+DO228309	MALY-DE		4149880	male	alive				6			J03.9								unknown
+DO228308	MALY-DE		4110696	male	alive	complete remission		81	81	82		C82.3	Ann Arbor Stage	I		595	595	no		unknown
+DO228316	MALY-DE		4151028	female	alive	complete remission		62	62	69		C82.0	Ann Arbor Stage	IV,N		2671	2671	no		unknown
+DO228315	MALY-DE		4171032	male	alive				19			J03.9								unknown
+DO228318	MALY-DE		4193646	male	alive	complete remission		33	33	33		C83.3	Ann Arbor Stage	I,E		233	233	no		unknown
+DO228312	MALY-DE		4149243	female	alive			67	70	74		unknown	Ann Arbor Stage	unknown		2585	2585	yes		unknown
+DO228447	MALY-DE		4101626	male	alive			68	68	70		C82.0	Ann Arbor Stage	III,N		764	764	no		unknown
+DO228440	MALY-DE		4181037	female	alive	complete remission		70	70	71		C82.3	Ann Arbor Stage	III,N		719	719	no		unknown
+DO228442	MALY-DE		4135813	female	alive			4	4	4		C83.3	Ann Arbor Stage	I		28	28	no		unknown
+DO228458	MALY-DE		4163741	male	alive	complete remission		3	3	9		C83.7	Murphy Stage	III		2196	2196	no		unknown
+DO228451	MALY-DE		4135278	female	alive	relapse		43	43	44	345	C83.3	Ann Arbor Stage	III,N		520	520	no		unknown
+DO228468	MALY-DE		4104119	male	alive			82	82	82		C83.9	Ann Arbor Stage	IV		90	90	no		unknown
+DO228469	MALY-DE		4105782	male	alive			57	57	57		C82.0	Ann Arbor Stage	IV,N,S,E		335	335	yes		unknown
+DO228463	MALY-DE		4113211	female	alive	complete remission		73	73	74		C82.3	Ann Arbor Stage	III,N		689	689	no		unknown
+DO228466	MALY-DE		4196654	male	alive	complete remission		70	70	77		C85.1	Ann Arbor Stage	I,N		2677	2677	no		unknown
+DO228465	MALY-DE		4104105	male	alive	complete remission		58	58	62		C83.3	Ann Arbor Stage	I,N		1509	1509	no		unknown
+DO228478	MALY-DE		4161696	male	alive	complete remission		5	5	11		C83.7	Murphy Stage	B-ALL		2372	2372	no		unknown
+DO228475	MALY-DE		4108988	male	alive	partial remission		55	55	55		C82.0	Ann Arbor Stage	I,N		241	241	no		unknown
+DO228484	MALY-DE		4160810	male	alive	complete remission		5	5	7		C83.7	Murphy Stage	B-ALL		1076	1076	no		unknown
+DO228486	MALY-DE		4109142	female	alive	complete remission		74	74	74		C82.0	Ann Arbor Stage	III,N		135	135	yes		unknown
+DO228485	MALY-DE		4133863	male	alive	complete remission		54	54	58		C82.0	Ann Arbor Stage	II,N		1487	1487	no		yes
+DO228490	MALY-DE		4108588	male	alive			62	62	71		C82.0	Ann Arbor Stage	IV,N,E		3300	3300	yes		unknown
+DO228492	MALY-DE		4170577	female	alive	partial remission		88	88	88		C83.3	Ann Arbor Stage	IV,N,E		331	331	no		unknown
+DO228497	MALY-DE		4158769	male	alive	complete remission		6	6	11		C83.7	Murphy Stage	IV		1885	1885	no		unknown
+DO228496	MALY-DE		4130865	male	alive	partial remission		53	53	53		C83.3	Ann Arbor Stage	III,N		342	342	no		unknown
+DO228402	MALY-DE		4132318	male	alive	complete remission		54	54	61		C82.0	Ann Arbor Stage	II,N		2561	2561	yes		unknown
+DO228403	MALY-DE		4176325	female	alive	complete remission		80	80	81		C83.3	Ann Arbor Stage	I,N		727	727	no		unknown
+DO228406	MALY-DE		4186812	male	alive	complete remission		9	9	12		C83.7	Murphy Stage	III		1154	1154	no		unknown
+DO228407	MALY-DE		4131738	male	alive	partial remission		45	45	46		C82.0	Ann Arbor Stage	IV,N,S,E		420	420	no		unknown
+DO228400	MALY-DE		4177639	female				77	77			C82.0	Ann Arbor Stage	IV,N,E				no		unknown
+DO228412	MALY-DE		4178291	male	alive				3			J03.9								unknown
+DO228414	MALY-DE		4131213	female				71	71	71		C83.3	Ann Arbor Stage	III,N		28	28	no		unknown
+DO228417	MALY-DE		4178518	male	alive	complete remission		10	10	15		C83.7	Murphy Stage	B-ALL		2038	2038	no		unknown
+DO228419	MALY-DE		4139212	female	alive			72	72	74		C82.0	Ann Arbor Stage	IV,S		803	803	no		unknown
+DO228418	MALY-DE		4151471	male	alive	complete remission		29	29	35		C83.3	Ann Arbor Stage	IV,N,E		2263	2263	no		unknown
+DO228411	MALY-DE		4171810	female	alive	partial remission		52	52	65		C83.3	Ann Arbor Stage	IV,S,E		4845	4845	no		yes
+DO228424	MALY-DE		4110120	male	alive	complete remission		68	68	76		C83.3	Ann Arbor Stage	I,N		3028	3028	no		unknown
+DO228428	MALY-DE		4140544	female	alive	complete remission		61	61	79		C83.3	Ann Arbor Stage	III,N		6659	6659	yes		yes
+DO228429	MALY-DE		4158933	male	alive	partial remission		67	67	69		C83.3	Ann Arbor Stage	II,N		886	886	no		unknown
+DO228421	MALY-DE		4173863	female	alive	complete remission		53	53	62		C83.3	Ann Arbor Stage	III,N,S		3381	3381	no		unknown
+DO228435	MALY-DE		4198519	female	alive	complete remission		67	67	68		C82.3	Ann Arbor Stage	IV,N,E		663	663	no		unknown
+DO228437	MALY-DE		4144366	male	alive	partial remission		40	40	47		C82.0	Ann Arbor Stage	III,N		2723	2723	no		yes
+DO228438	MALY-DE		4179894	male	alive	complete remission		72	72	73		C83.3	Ann Arbor Stage	II,N		435	435	no		unknown
+DO228568	MALY-DE		4100314	male	alive	complete remission		5	5	10		C83.7	Murphy Stage	IV		1950	1950	no		unknown
+DO228564	MALY-DE		4177175	female	alive	complete remission		74	74	79		C82.3	Ann Arbor Stage	IV,N,S,E		1918	1918	no		unknown
+DO228578	MALY-DE		4164943	female	alive	complete remission		7	7	12		C83.7	Murphy Stage	B-ALL		2142	2142	no		unknown
+DO228584	MALY-DE		4171908	female				61	61			C82.0	Ann Arbor Stage	IV,S,E				yes		unknown
+DO228587	MALY-DE		4183136	male	alive	partial remission		55	55	61		C83.3	Ann Arbor Stage	IV,N,S,E		2326	2326	no		yes
+DO228593	MALY-DE		4146301	female	alive			66	66	69		C85.1	Ann Arbor Stage	I,E		1294	1294	no		unknown
+DO228595	MALY-DE		4147360	female	alive	complete remission		61	61	62		C82.0	Ann Arbor Stage	III,N		573	573	no		unknown
+DO228505	MALY-DE		4128435	female	alive	partial remission		48	48	48		C82.0	Ann Arbor Stage	III		145	145	no		unknown
+DO228504	MALY-DE		4169012	female	alive	complete remission		59	59	60		C83.3	Ann Arbor Stage	IV,N		414	414	no		yes
+DO228511	MALY-DE		4113971	female	alive	complete remission		61	61	63		C82.3	Ann Arbor Stage	IV,S,E		835	835	no		unknown
+DO228518	MALY-DE		4141476	female	alive	partial remission		79	79	80		C83.3	Ann Arbor Stage	III,N,S		645	645	no		unknown
+DO228517	MALY-DE		4107990	female	alive	complete remission		43	43	44		C82.4	Ann Arbor Stage	IV,N		536	536	no		yes
+DO228527	MALY-DE		4100636	male	alive	complete remission		43	43	46		C82.3	Ann Arbor Stage	III,N,S		1286	1286	no		unknown
+DO228526	MALY-DE		4117030	male	alive	complete remission		58	58	61		C83.3	Ann Arbor Stage	III,N		1429	1429	no		yes
+DO228529	MALY-DE		4162154	female	alive	partial remission		51	51	58		C82.0	Ann Arbor Stage	III,N		2873	2873	no		unknown
+DO228537	MALY-DE		4190929	female	alive	relapse		77	77	83	1855	C82.0	Ann Arbor Stage	IV,N,E		2299	2299	no		unknown
+DO228539	MALY-DE		4148261	female	alive	partial remission		61	61	68		C82.0	Ann Arbor Stage	III,N		2906	2906	no		unknown
+DO228532	MALY-DE		4184437	female	alive	partial remission		65	65	69		C82.3	Ann Arbor Stage	III,N		1798	1798	no		unknown
+DO228543	MALY-DE		4146136	female	alive	complete remission		76	76	76		C83.3	Ann Arbor Stage	I,N		258	258	no		unknown
+DO228550	MALY-DE		4126692	female	alive			61	64	67		C82.0	Ann Arbor Stage	III,N		2192	2192	no		unknown
+DO228600	MALY-DE		4183924	female	alive	complete remission		72	72	72		C83.3	Ann Arbor Stage	III,N,E		155	155	no		unknown
+DO228606	MALY-DE		4148537	female	alive			62	62	72		C82.0	Ann Arbor Stage	III		3951	3951	no		unknown
+DO228605	MALY-DE		4197155	female	alive	complete remission		70	70	71		C83.3	Ann Arbor Stage	I,N		510	510	no		unknown
+DO228613	MALY-DE		4188800	female	alive			34	34	34		C82.0	Ann Arbor Stage	II,N		142	142	no		unknown
+DO228616	MALY-DE		4103570	male	alive	complete remission		7	7	11		C83.7	Murphy Stage	III		1563	1563	no		unknown
+DO228818	MALY-DE		4120468	female	alive			80	80	87		C82.0	Ann Arbor Stage	III,N		2587	2587	no		unknown
+DO228824	MALY-DE		4176046	male	alive	complete remission		57	57	61		C83.3	Ann Arbor Stage	I,N		1521	1521	yes		unknown
+DO228829	MALY-DE		4170844	female	alive	complete remission		5	5	9		C83.7	Murphy Stage	III		1780	1780	no		unknown
+DO228834	MALY-DE		4124791	female	alive	complete remission		68	68	70		C83.3	Ann Arbor Stage	III,N,S		961	961	no		unknown
+DO228838	MALY-DE		4124432	female	alive	complete remission		64	64	66		C82.0	Ann Arbor Stage	IV,N,E		925	925	no		yes
+DO228843	MALY-DE		4126473	male	alive	complete remission		44	44	44		C82.6	unknown	unknown		310	310	yes		unknown
+DO228853	MALY-DE		4180106	male	alive	complete remission		68	68	73		C83.0	Ann Arbor Stage	IV,N,S		2141	2141	no		yes
+DO228855	MALY-DE		4103593	female	alive	complete remission		79	79	79		C83.0	Ann Arbor Stage	III,S		212	212	no		unknown
+DO228858	MALY-DE		4132950	male	deceased			76	76	76		C83.3	Ann Arbor Stage	IV,N		138	218	no		unknown
+DO228851	MALY-DE		4177842	female	alive	complete remission		75	75	80		C83.3	Ann Arbor Stage	II,N		1960	1960	no		unknown
+DO228865	MALY-DE		4167381	male	alive	complete remission		68	68	70		C83.3	Ann Arbor Stage	III,N,S		1024	1024	no		unknown
+DO228868	MALY-DE		4119463	female	alive	partial remission		50	50	50		C82.0	Ann Arbor Stage	IV,S,E		355	355	no		unknown
+DO228869	MALY-DE		4128970	female	alive			61	61	62		C82.0	Ann Arbor Stage	I,N		456	456	yes		unknown
+DO228861	MALY-DE		4121974	female	alive			73	73	74		C82.3	Ann Arbor Stage	IV		588	588	yes		unknown
+DO228875	MALY-DE		4116268	male	alive	complete remission		52	52	52		C83.3	Ann Arbor Stage	II,N		294	294	no		unknown
+DO228876	MALY-DE		4158483	male	alive	complete remission		46	46	48		C82.0	Ann Arbor Stage	IV,N,E		1023	1023	no		unknown
+DO228873	MALY-DE		4120879	male	alive	partial remission		52	52	53		C82.0	Ann Arbor Stage	IV,N,S,E		473	473	no		unknown
+DO228872	MALY-DE		4130051	female	alive	complete remission		74	74	74		C83.3	Ann Arbor Stage	IV,N,E		274	274	no		unknown
+DO228885	MALY-DE		4186613	male	alive	complete remission		45	47	61		C82.4	Ann Arbor Stage	I,N		5894	5894	no		unknown
+DO228888	MALY-DE		4136095	female	deceased	partial remission		78	78	79		C82.0	Ann Arbor Stage	IV,N,S		486	486	no		unknown
+DO228889	MALY-DE		4163297	male	alive	partial remission		47	47	54		C82.0	Ann Arbor Stage	IV,N,E		2825	2825	no		yes
+DO228880	MALY-DE		4150549	female	alive	complete remission		76	76	76		C82.0	Ann Arbor Stage	IV,N		265	265	no		unknown
+DO228882	MALY-DE		4162611	male	alive	complete remission		16	16	21		C83.7	Murphy Stage	III		2167	2167	no		unknown
+DO228891	MALY-DE		4138059	female	alive	partial remission		72	72	73		C82.0	Ann Arbor Stage	I,N		399	399	no		yes
+DO221130	MALY-DE		4158268	female	alive	complete remission		54	54	62		C82.0	Ann Arbor Stage	II,N,E		3103	3103	no		yes
+DO221131	MALY-DE		4109956	female	alive	partial remission		54	54	55		C82.0	Ann Arbor Stage	IV,N,E		520	520	no		unknown
+DO221118	MALY-DE		4140531	male	alive	complete remission		66	66	70		C83.3	Ann Arbor Stage	I,E		1594	1594	no		unknown
+DO221119	MALY-DE		4177844	male	alive	partial remission		68	68	71		C82.0	Ann Arbor Stage	IV,E		1155	1155	no		unknown
+DO221116	MALY-DE		4160735	male	alive				13			J03.9								unknown
+DO221117	MALY-DE		4107559	male	alive	complete remission		72	72	74		C83.3	Ann Arbor Stage	I		840	840	yes		unknown
+DO221125	MALY-DE		4122063	male	alive	relapse		47	47	50	1327	C83.3	Ann Arbor Stage	IV,E		1333	1333	no		unknown
+DO221126	MALY-DE		4130194	female	deceased	relapse		55	55	56	251	C83.3	Ann Arbor Stage	II,N,E		466	466	yes		unknown
+DO221123	MALY-DE	PCAWG	4124188	male	alive	complete remission		73	73	73		C83.3	Ann Arbor Stage	IV,N,E		300	300	no		unknown
+DO221124	MALY-DE	PCAWG	4138527	female	deceased	partial remission		85	85	86		C83.3	Ann Arbor Stage	II,N		374	374	no		unknown
+DO221121	MALY-DE		4110996	male	alive	complete remission		2	2	5		C83.7	Murphy Stage	unknown		1339	1339	no		unknown
+DO221122	MALY-DE		4177406	female	alive	complete remission		72	72	75		C82.0	Ann Arbor Stage	IV,N,E		1344	1344	no		unknown
+DO221120	MALY-DE		4184011	male	alive	relapse		61	61	65	1380	C82.0	Ann Arbor Stage	III,N		1786	1786	no		unknown
+DO221129	MALY-DE	PCAWG	4128852	female	alive	complete remission		57	57	59		C83.3	Ann Arbor Stage	II,N		751	751	no		yes
+DO221127	MALY-DE	PCAWG	4105746	male	alive	complete remission		58	58	61		C83.3	Ann Arbor Stage	I,E		1167	1167	no		unknown
+DO221128	MALY-DE		4187640	male	alive	complete remission		58	58	60		C82.4	Ann Arbor Stage	III,N,E		813	813	no		unknown
+DO52657	MALY-DE	PCAWG	4157186	male	alive	complete remission		74	74	77		C83.3	Ann Arbor Stage	II,E		1198	1198	no		unknown
+DO52658	MALY-DE	PCAWG	4188879	male	alive	partial remission		52	52	55		C83.3	Ann Arbor Stage	IV		1177	1177	no		yes
+DO52659	MALY-DE	PCAWG	4119279	female	alive	complete remission		62	62	65		C83.3	Ann Arbor Stage	III,S		1323	1323	no		yes
+DO52650	MALY-DE	PCAWG	4134434	male	alive	partial remission		84	84	84		C83.3	Ann Arbor Stage	IV,N,E		128	128	no		unknown
+DO52651	MALY-DE	PCAWG	4160100	female	alive			72	72	74		C83.0	Ann Arbor Stage	II,N		742	742	yes		unknown
+DO52652	MALY-DE	PCAWG	4136702	female	alive	complete remission		75	75	77		C82.3	Ann Arbor Stage	III,N		806	806	no		unknown
+DO52653	MALY-DE	PCAWG	4110378	female	alive	complete remission		69	69	71		C82.3	Ann Arbor Stage	III		1051	1051	no		unknown
+DO52654	MALY-DE	PCAWG	4115001	female	alive	complete remission		70	70	76		C83.3	Ann Arbor Stage	II,N		2524	2524	no		unknown
+DO52655	MALY-DE	PCAWG	4145177	female	alive	complete remission		75	75	78		C83.3	Ann Arbor Stage	II,N		1177	1177	no		yes
+DO52656	MALY-DE	PCAWG	4149246	male	alive	complete remission		41	41	48		C82.1	Ann Arbor Stage	IV,N		2626	2626	no		unknown
+DO52647	MALY-DE	PCAWG	4112447	male	alive	partial remission		46	46	48		C82.0	Ann Arbor Stage	IV,N		853	853	no		unknown
+DO52648	MALY-DE	PCAWG	4159421	female	deceased	progression		78	78	78	118	C82.3	Ann Arbor Stage	III,S		153	153	no		yes
+DO52649	MALY-DE	PCAWG	4198542	female	alive	complete remission		68	68	70		C82.0	Ann Arbor Stage	III,N		897	897	no		unknown
