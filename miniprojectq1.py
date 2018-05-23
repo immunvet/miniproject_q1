@@ -26,19 +26,15 @@ def mi_rna_dlbcl():
     joined = pd.merge(mi_rna_csv,don_ids)
     header = ['icgc_donor_id','mirna_id','normalized_read_count','raw_read_count']
     joined.to_csv('mi_rna_dlbcl.csv',columns = header, encoding = 'utf-8',index = False)
-    
-    
+
 mi_rna_dlbcl = pd.read_csv(r'./mi_rna_dlbcl.csv')
 
-
-
-
-
-
-
-
-
-
+d_raw = mi_rna_dlbcl.pivot_table(index = 'mirna_id',columns = 'icgc_donor_id',values = 'raw_read_count')
+d_raw.fillna(0, inplace = True)
+d_raw.to_csv('df_by_rna_raw.csv',encoding = 'utf-8')
+d_norm = mi_rna_dlbcl.pivot_table(index = 'mirna_id',columns = 'icgc_donor_id',values = 'normalized_read_count')
+d_norm.fillna(0, inplace = True)
+d_norm.to_csv('df_by_rna_norm.csv', encoding = 'utf-8')
 
 
 
