@@ -1,5 +1,6 @@
 import pandas as pd 
-
+import matplotlib.pyplot as plt
+import numpy as np
 def find_tumor_icd():
     #filter donor data by tumor icd10. in new file will be only those patients who were diagnosed with dlbcl
     location = r'./donor.tsv'
@@ -36,9 +37,11 @@ d_norm = mi_rna_dlbcl.pivot_table(index = 'mirna_id',columns = 'icgc_donor_id',v
 d_norm.fillna(0, inplace = True)
 d_norm.to_csv('df_by_rna_norm.csv', encoding = 'utf-8')
 
+d_raw.plot()
+d_norm.plot()
 
-
-
+df2 = d_raw.applymap(np.log2)
+df2.plot()
 
  
     
